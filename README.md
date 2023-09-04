@@ -1,2 +1,2 @@
-# .github
-Pointcast is a patented technology that lets you use your smartphone to interact with the world around you by pointing it.
+# Pointcast Public README
+This repository exists so that our organization can have a descriptive public-facing README page.
